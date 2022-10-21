@@ -6,8 +6,10 @@
 I am a student at the University of Florida studying Electrical and Computer Engineering. 
 
 
+
+
+## Languages and Tools
 #
-### Languages and Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
@@ -28,12 +30,26 @@ I am a student at the University of Florida studying Electrical and Computer Eng
 <br />
 <br />
 
-#
 
-### 📊 Stats
+
+## Github Statistics 
+#
 
 ![Dieter's GitHub stats](https://github-readme-stats.vercel.app/api?username=dietersteinhauser&show_icons=true&theme=prussian)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=dietersteinhauser&theme=prussian &border_radius=4.5) -->
 
+
+
+## [Projects](https://htmlpreview.github.io/?https://github.com/DieterSteinhauser/project_documentation/blob/main/docs/_build/html/index.html)
 #
+
+
+
+- [RetroPie Arcade Cabinet](https://htmlpreview.github.io/?https://raw.githubusercontent.com/DieterSteinhauser/project_documentation/main/docs/_build/html/rpi/gatorcade.html)
+
+- Condenser Microphone
+
+- [RaspberryPi - Home VPN and AdBlocker](https://htmlpreview.github.io/?https://raw.githubusercontent.com/DieterSteinhauser/project_documentation/main/docs/_build/html/rpi/pivpn.html)
+
+- [RaspberryPi - Personal Cloud Storage](https://htmlpreview.github.io/?https://raw.githubusercontent.com/DieterSteinhauser/project_documentation/main/docs/_build/html/rpi/nextcloud.html) 
