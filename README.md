@@ -6,7 +6,7 @@
 I am a student at the University of Florida studying Electrical and Computer Engineering. 
 
 
----------------------------------------------------
+#
 ### Languages and Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -25,13 +25,15 @@ I am a student at the University of Florida studying Electrical and Computer Eng
 <img align="left" alt="Jira" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" />
 <img align="left" alt="Jenkins" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
 <br />
+<br />
+<br />
 
----------------------------------------------------
+#
 
 ### 📊 Stats
 
-![Dieter's GitHub stats](https://github-readme-stats.vercel.app/api?username=dietersteinhauser&show_icons=true&theme=gruvbox)
+![Dieter's GitHub stats](https://github-readme-stats.vercel.app/api?username=dietersteinhauser&show_icons=true&theme=prussian)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=dietersteinhauser&theme=gruvbox&border_radius=4.5) -->
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=dietersteinhauser&theme=prussian &border_radius=4.5) -->
 
 #
