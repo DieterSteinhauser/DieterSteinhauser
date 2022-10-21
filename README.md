@@ -1,1 +1,1 @@
-# DieterSteinhausser
+# Dieter Steinhauser
