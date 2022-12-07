@@ -46,6 +46,8 @@ I am a student at the University of Florida studying Electrical and Computer Eng
 
 - Condenser Microphone
 
+- [Raspberry Pico - Ultrasonic Theremin](https://htmlpreview.github.io/?https://raw.githubusercontent.com/DieterSteinhauser/project_documentation/main/docs/_build/html/engineering/ultrasonic_theremin.html)
+
 - [RaspberryPi - Home VPN and AdBlocker](https://htmlpreview.github.io/?https://raw.githubusercontent.com/DieterSteinhauser/project_documentation/main/docs/_build/html/rpi/pivpn.html)
 
 - [RaspberryPi - Personal Cloud Storage](https://htmlpreview.github.io/?https://raw.githubusercontent.com/DieterSteinhauser/project_documentation/main/docs/_build/html/rpi/nextcloud.html) 
