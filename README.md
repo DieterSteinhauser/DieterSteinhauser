@@ -33,7 +33,7 @@ I am a student at the University of Florida studying Electrical and Computer Eng
 
 ## Github Statistics 
 
-![Dieter's GitHub stats](https://github-readme-stats.vercel.app/api?username=dietersteinhauser&show_icons=true&theme=prussian)
+[comment]: <> ![Dieter's GitHub stats](https://github-readme-stats.vercel.app/api?username=dietersteinhauser&show_icons=true&theme=prussian)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=dietersteinhauser&theme=prussian &border_radius=4.5) -->
 
