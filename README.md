@@ -61,10 +61,7 @@ I am a student at the University of Florida studying Electrical and Computer Eng
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
-<br />
+
 
 ## [Projects](https://htmlpreview.github.io/?https://github.com/DieterSteinhauser/project_documentation/blob/main/docs/_build/html/index.html)
 
