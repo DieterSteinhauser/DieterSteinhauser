@@ -3,9 +3,7 @@
 
 **Electrical and Computer Engineer**
 
-I am a student at the University of Florida studying Electrical and Computer Engineering. 
-
-
+I am a student at the University of Florida studying Electrical and Computer Engineering. 🐊
 
 
 ## Languages and Tools
