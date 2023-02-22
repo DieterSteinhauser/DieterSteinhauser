@@ -57,13 +57,21 @@ I am a student at the University of Florida studying Electrical and Computer Eng
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 ## [Projects](https://htmlpreview.github.io/?https://github.com/DieterSteinhauser/project_documentation/blob/main/docs/_build/html/index.html)
 
 
 - [RetroPie Arcade Cabinet](https://htmlpreview.github.io/?https://raw.githubusercontent.com/DieterSteinhauser/project_documentation/main/docs/_build/html/rpi/gatorcade.html)
 
-- Condenser Microphone
+- [Condenser Microphone](https://htmlpreview.github.io/?https://raw.githubusercontent.com/DieterSteinhauser/project_documentation/main/docs/_build/html/engineering/condenser_microphone.html)
 
 - [Raspberry Pico - Ultrasonic Theremin](https://htmlpreview.github.io/?https://raw.githubusercontent.com/DieterSteinhauser/project_documentation/main/docs/_build/html/engineering/ultrasonic_theremin.html)
 
