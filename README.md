@@ -61,21 +61,28 @@ I am a student at the University of Florida studying Electrical and Computer Eng
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 
-## [Projects](https://htmlpreview.github.io/?https://github.com/DieterSteinhauser/project_documentation/blob/main/docs/_build/html/index.html)
+## [Projects](https://dietersteinhauser.github.io/project_documentation/index.html)
 
 
-- [RetroPie Arcade Cabinet](https://htmlpreview.github.io/?https://raw.githubusercontent.com/DieterSteinhauser/project_documentation/main/docs/_build/html/rpi/gatorcade.html)
+- [RetroPie Arcade Cabinet](https://dietersteinhauser.github.io/project_documentation/rpi/gatorcade.html)
 
-- [Condenser Microphone](https://htmlpreview.github.io/?https://raw.githubusercontent.com/DieterSteinhauser/project_documentation/main/docs/_build/html/engineering/condenser_microphone.html)
+- [Condenser Microphone](https://dietersteinhauser.github.io/project_documentation/engineering/condenser_microphone.html)
 
-- [Raspberry Pico - Ultrasonic Theremin](https://htmlpreview.github.io/?https://raw.githubusercontent.com/DieterSteinhauser/project_documentation/main/docs/_build/html/engineering/ultrasonic_theremin.html)
+- [Raspberry Pico - Ultrasonic Theremin](https://dietersteinhauser.github.io/project_documentation/engineering/ultrasonic_theremin.html)
 
-- [RaspberryPi - Home VPN and AdBlocker](https://htmlpreview.github.io/?https://raw.githubusercontent.com/DieterSteinhauser/project_documentation/main/docs/_build/html/rpi/pivpn.html)
+- [RaspberryPi - Home VPN and AdBlocker](https://dietersteinhauser.github.io/project_documentation/rpi/pivpn.html)
 
-- [RaspberryPi - Personal Cloud Storage](https://htmlpreview.github.io/?https://raw.githubusercontent.com/DieterSteinhauser/project_documentation/main/docs/_build/html/rpi/nextcloud.html) 
+- [RaspberryPi - Personal Cloud Storage](https://dietersteinhauser.github.io/project_documentation/rpi/nextcloud.html) 
 
-- [Electrical Engineering Project Reference](https://htmlpreview.github.io/?https://raw.githubusercontent.com/DieterSteinhauser/project_documentation/main/docs/_build/html/engineering/engineering_reference.html) 
+- [Electrical Engineering Project Reference](https://dietersteinhauser.github.io/project_documentation/engineering/engineering_reference.html) 
+
+
 
 
