@@ -63,9 +63,7 @@ I am a student at the University of Florida studying Electrical and Computer Eng
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
+
 
 
 ## [Projects](https://dietersteinhauser.github.io/project_documentation/index.html)
