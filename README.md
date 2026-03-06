@@ -37,13 +37,13 @@ I am a student at the University of Florida studying Electrical and Computer Eng
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DieterSteinhauser&hide=html,v,javascript&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=DieterSteinhauser&count_private=true&show_icons=true" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DieterSteinhauser" />
-</a>
+</a> -->
 
 <!--![Dieter's GitHub stats](https://github-readme-stats.vercel.app/api?username=dietersteinhauser&show_icons=true&theme=prussian) -->
 
