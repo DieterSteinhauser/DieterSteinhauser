@@ -49,22 +49,61 @@ I am a student at the University of Florida studying Electrical and Computer Eng
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=dietersteinhauser&theme=prussian &border_radius=4.5)
 
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
+
+# Dieter Steinhauser
+
+**Electrical and Computer Engineer | University of Florida 🐊**[cite: 1]
+
+I am an Electrical and Computer Engineering student specializing in **Analog Design** and **Power Electronics**.
+
+Outside of my professional focus, I am a dedicated home-lab enthusiast, privacy advocate, and generally like fixing/making stuff. 
+
+---
+
+### 🛠️ Technical Focus
+
+*   **Engineering:** Analog Design, Power Electronics, Microprocessor Applications, Data Conveters, Signal Processing, Automation, Platform Development/DevOps.
+
+---
+
+### 💻 Languages and Tools
+
+**Software & Development**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35" title="Python"/>[cite: 1]
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="35" title="C"/>[cite: 1]
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" width="35" title="Embedded C"/>[cite: 1]
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="35" title="C++"/>[cite: 1]
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35" title="Java"/>[cite: 1]
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="35" title="MATLAB"/>[cite: 1]
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width="35" title="RStudio"/>[cite: 1]
+</p>
+
+**Hardware & DevOps**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="35" title="Arduino"/>[cite: 1]
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="35" title="Raspberry Pi"/>[cite: 1]
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="35" title="Linux"/>[cite: 1]
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="35" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" title="Git"/>[cite: 1]
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="35" title="Jenkins"/>[cite: 1]
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" width="35" title="Jira"/>[cite: 1]
+</p>
+
+---
 
 
+### 📊 GitHub Statistics
 
-## [Project Blog](dstein.haus)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dietersteinhauser&show_icons=true&theme=prussian&hide_border=true" alt="Dieter's Stats" />[cite: 1]
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dietersteinhauser&layout=compact&theme=prussian&hide_border=true" alt="Top Languages" />[cite: 1]
+  <br>
+  <img src="https://streak-stats.demolab.com?user=dietersteinhauser&theme=prussian&hide_border=true" alt="GitHub Streak" />[cite: 1]
+</p>
 
+---
+
+### 🌐 Connect
+*   **Blog:** [dstein.haus](https://dstein.haus)[cite: 1]
