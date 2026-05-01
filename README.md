@@ -31,11 +31,11 @@ I am a student at the University of Florida studying Electrical and Computer Eng
 
  ## Github Statistics 
  
- <!-- 
+ 
 [![Dieter's github stats](https://github-readme-stats.vercel.app/api?username=DieterSteinhauser&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DieterSteinhauser&hide=html,v,javascript&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
--->
+
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=DieterSteinhauser&count_private=true&show_icons=true" />
@@ -66,21 +66,5 @@ I am a student at the University of Florida studying Electrical and Computer Eng
 
 
 
-## [Projects](https://dietersteinhauser.github.io/project_documentation/index.html)
-
-
-- [RetroPie Arcade Cabinet](https://dietersteinhauser.github.io/project_documentation/rpi/gatorcade.html)
-
-- [Condenser Microphone](https://dietersteinhauser.github.io/project_documentation/engineering/condenser_microphone.html)
-
-- [Raspberry Pico - Ultrasonic Theremin](https://dietersteinhauser.github.io/project_documentation/engineering/ultrasonic_theremin.html)
-
-- [RaspberryPi - Home VPN and AdBlocker](https://dietersteinhauser.github.io/project_documentation/rpi/pivpn.html)
-
-- [RaspberryPi - Personal Cloud Storage](https://dietersteinhauser.github.io/project_documentation/rpi/nextcloud.html) 
-
-- [Electrical Engineering Project Reference](https://dietersteinhauser.github.io/project_documentation/engineering/engineering_reference.html) 
-
-
-
+## [Project Blog](dstein.haus)
 
