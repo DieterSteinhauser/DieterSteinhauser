@@ -44,16 +44,13 @@ Outside of my professional focus, I am a dedicated home-lab enthusiast, privacy 
 ---
 
 
-### 📊 GitHub Statistics
-
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dietersteinhauser&show_icons=true&theme=prussian&hide_border=true" alt="Dieter's Stats" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dietersteinhauser&layout=compact&theme=prussian&hide_border=true" alt="Top Languages" />
   <br>
   <img src="https://streak-stats.demolab.com?user=dietersteinhauser&theme=prussian&hide_border=true" alt="GitHub Streak" />
-</p>
+</p> -->
 
----
 
 
